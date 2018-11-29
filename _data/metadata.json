@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Telco Network Sh*t",
+  "url": "https://braam-blog.netlify.com",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a Telco - Network Engineer. You'll probably find also some posts about my hobbies or wacko wierdo thoughts...",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://braam-blog.netlify.com/feed/feed.xml",
+    "id": "https://braam-blog.netlify.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Braam Van Havermaet",
+    "email": "braam.vanhavermaet*gmail.com"
   }
 }
