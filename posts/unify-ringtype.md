@@ -13,5 +13,5 @@ Simple reminder on how to change the internal ringer type for analog parlophone,
 
 Change the call signaling external or - internal setting for the analog position on which the device is connected.
 
-<img src="../img/analog_different_ringtype.png" />
+<img src="https://raw.githubusercontent.com/braam/blog/master/img/analog_different_ringtype.png" />
 
