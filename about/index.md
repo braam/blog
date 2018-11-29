@@ -7,4 +7,4 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+You can find my professional profile on <a href="https://www.linkedin.com/in/braam-van-havermaet/">@LinkedIn</a> or for daily unimportant checkups in the world follow me <a href="https://twitter.com/braamvh">@Twitter</a>
