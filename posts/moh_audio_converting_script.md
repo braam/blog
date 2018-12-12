@@ -33,7 +33,7 @@ For Windows user you need to download ffmpeg.exe and place it inside the Windows
 ``` js/2/4
 32-bit: C:\windows\system32
 64-bit: C:\windows\syswow64
-´´´
+```
 Now create a batch file and place following script inside it, you can to convert the files drag and drop them on the script (or on a shortcut to the script).
 ``` js/2/4
 echo off
@@ -42,4 +42,4 @@ ffmpeg.exe -i "%~1" -acodec pcm_s16le -ac 1 -ar 8000 "%~p1%~n1.wav"
 shift
 if "%~1" == "" goto:eof
 goto:again
-´´´
+```
