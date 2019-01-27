@@ -1,6 +1,6 @@
 ---
 title: PRA Telenet DIUT2 card
-date: 2018-01-27
+date: 2019-01-27
 tags:
   - unify
   - Telenet
