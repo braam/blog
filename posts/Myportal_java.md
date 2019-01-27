@@ -1,5 +1,5 @@
 ---
-title: Disable or enable caller list on S5 handset
+title: Myportal JAVA runtime issue
 date: 2019-01-27
 tags:
   - unify
